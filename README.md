@@ -34,18 +34,20 @@ To set up **Track and Forward**, follow these steps:
 To run the application in development:
 	```bash
 	npm run dev
+	```
 
 ## Configuration
 Configure your application with your Google Analytics credentials and target URL in the .env file:
 
-	```bash
+	```
 	GA_TRACKING_ID=YOUR_GOOGLE_ANALYTICS_TRACKING_ID
 	REDIRECT_URL=YOUR_TARGET_URL
 	```
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
-	```css
+
+	```
 	This Markdown-formatted README is ready for GitHub. It will display headings, code blocks, and sections clearly once uploaded to your repository.
 	```
 
